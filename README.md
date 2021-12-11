@@ -17,6 +17,8 @@ This project aims to extract information about COVID-19 vaccines from Twitter us
 | K-means   | `TextBlob` library | SVM, KNN, DT      |
 
 
+
 ### Integration with Chatbot:
 
-[chatbot![1.PNG](https://github.com/AlshimaaGamalAlsaied/Final_nlp_project_Vaccine_analysis/blob/main/1.PNG)]
+
+[<img src="https://github.com/AlshimaaGamalAlsaied/Final_nlp_project_Vaccine_analysis/blob/main/1.PNG">](https://sites.google.com/view/vaccineprotection/home)
