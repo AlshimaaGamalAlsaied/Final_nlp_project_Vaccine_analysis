@@ -20,5 +20,5 @@ This project aims to extract information about COVID-19 vaccines from Twitter us
 
 ### Integration with Chatbot:
 
-
+[COVID-19 Vaccine Chatbot](https://sites.google.com/view/vaccineprotection/home)
 [<img src="https://github.com/AlshimaaGamalAlsaied/Final_nlp_project_Vaccine_analysis/blob/main/1.PNG">](https://sites.google.com/view/vaccineprotection/home)
